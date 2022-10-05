@@ -9,7 +9,7 @@ Technology used:-
 2. HTML
 3. CSS
 
-# Lauch:-
+# Launch:-
 Launch the program by follwing the given steps:-
 
 1. Get the code from the uploaded files.
